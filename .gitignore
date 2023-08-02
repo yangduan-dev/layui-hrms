@@ -1,0 +1,9 @@
+hrms_app
+views_old
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.idea
+config/config-self.yaml
